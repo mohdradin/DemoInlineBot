@@ -1,5 +1,5 @@
-# RD_FirstNodeBot - chat bot
-It is repository for chat bot: [@RD_FirstNodeBot](https://t.me/RD_FirstNodeBot)
+# DemoInlineKeyboardBot - chat bot
+It is repository for chat bot: [@DemoInlineKeyboardBot](https://t.me/DemoInlineKeyboardBot)
 
 ## What it is?
 This repository can be imported to [Bots.Business](https://bots.business) as a worked chat bot.
